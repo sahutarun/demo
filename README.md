@@ -14,7 +14,7 @@ The framework has following features:
 - The Cucumber feature files have .feature extension. This is where the human readable tests are written/stored.
 - The test code is in the stepdefination folder.
 - The Runner class 'glues' classes in stepdefination by matching the step names. The Runner class also is the main class triggered by junitTest. 
-- The webdrivermanager handled the creating of the browser instance.
+- The webdrivermanager handled the creation of the browser instance.
 
 ```
 .pom.xml
