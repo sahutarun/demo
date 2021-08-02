@@ -113,4 +113,4 @@ This project is example how can setup jenkins pipeline for selenium project step
 - Running created pipeline
 - Click build now and execution will be started
 - Pipeline steps will be displayed on jenkins screen
-- Once execution finish, Click on "HTML Report" tab to view serenity HTML Reports
+- Once execution finish, Click on "HTML Report" tab to view serenity HTML Reports.
