@@ -81,6 +81,9 @@ mvn clean verify OR mvn clean verify -Dcucumber.options="--tags @e2e" - Run spec
 **View HTML Report**
 - HTML report will be generated once execution finish -bdd-cucumber\target\site\serenity
 - Open Index.html in browser to see the reports
+![Screenshot](report2.png)
+![Screenshot](report3.png)
+![Screenshot](report1.png)
 
 
 **Setting jenkins pipeline for Selenium(Cucumber serenity project)**
